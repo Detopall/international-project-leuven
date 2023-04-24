@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Extreme&family=Sigmar&display=swap');
+
+
+body {
+	font-family: 'Sigmar', cursive;
+	margin: 0;
+	padding: 0;
+}
+
+p, h2, span {
+	font-family: 'Pathway Extreme', sans-serif;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 2rem;
+	text-align: center;
+}
+
+main {
+	max-width: 50rem;
+	margin: 0 auto;
+	padding: 2rem;
+}
+
+span {
+	color: #777;
+	font-style: italic;
+}
+
+img {
+	width: 50%;
+	margin-bottom: 1rem;
+	display: block;
+	border-radius: 0.5rem;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 2rem;
+	text-align: center;
+}
