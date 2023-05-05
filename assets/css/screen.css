@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Pathway+Extreme&family=Sigmar&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Pathway+Extreme&family=Sigmar&display=swap");
 
 body {
-	font-family: 'Sigmar', cursive;
+	font-family: "Sigmar", cursive;
 	margin: 0;
 	padding: 0;
 }
 
-p, h2, span {
-	font-family: 'Pathway Extreme', sans-serif;
+p,
+h2,
+span {
+	font-family: "Pathway Extreme", sans-serif;
 }
 
 header {
@@ -29,24 +30,23 @@ span {
 	font-style: italic;
 }
 
-.icons{
+.icons {
 	padding-top: 1rem;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: row;
 	gap: 25px;
-	
 }
 
-.icon{
+.icon {
 	height: 48px;
-	width:  48px;
+	width: 48px;
 }
 
-.ucll{
+.ucll {
 	height: 75px;
-	width:  75px;
+	width: 75px;
 }
 
 img {
@@ -54,6 +54,7 @@ img {
 	margin-bottom: 1rem;
 	display: block;
 	border-radius: 0.5rem;
+	border: 0.1rem solid black;
 }
 
 footer {
