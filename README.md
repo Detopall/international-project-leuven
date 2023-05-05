@@ -4,7 +4,10 @@ This repo is meant as a school project. We will use the github pages to present 
 
 ## Usage
 
-``**MAKE SURE TO START FROM YOUR INDIVIDUAL BRANCH**``. This is to make sure we don't have any merge conflicts. (also make sure to pull before beginning and before pushing)
+``**MAKE SURE TO START FROM YOUR INDIVIDUAL BRANCH**``.
+This is to make sure we don't have any merge conflicts. (also make sure to pull before beginning and before pushing)
+
+All imgages, script tags ... that require a src (ex.:  <link rel="stylesheet" href"assets/css/screen.css"/>). This needs to begin with "assets/..." and NOT with "/assets". Because github pages doesn't like it when you use "/assets".
 
 Copy paste your text inside the ``p tags``. Add an ``image`` (or multiple) at the end of your section.
 
